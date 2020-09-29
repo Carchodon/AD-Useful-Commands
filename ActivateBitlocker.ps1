@@ -1,3 +1,7 @@
+###
+# I used this script when some computers gave us an error message because Bitlocker turned off
+#
+##
 
 # 1) Open CMD as admin
 
